@@ -25,7 +25,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <url>file:///tmp/maven_project-site</url>
     </site>
     <snapshotRepository>
             <id>nexus</id>
